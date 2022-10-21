@@ -10,17 +10,17 @@ error45 = "\033[1;33;40m No sign entered! 45"
 iftrue = 1
 error67 = "\033[1;33;40m Value can not be letters! 67"
 
-while True:
-  print(error109)
-  print(error1)
-  print(error32)
-  print(error18)
-  print(error0)
-  print(warning1)
-  print(errorunk)
-  print(error45)
-  print(error67)
-  print(error95)
-  errordone = input("Error codes show: Click any key to return to Zefroin.... ")
+
+print(error109)
+print(error1)
+print(error32)
+print(error18)
+print(error0)
+print(warning1)
+print(errorunk)
+print(error45)
+print(error67)
+print(error95)
+errordone = input("Error codes show: Click any key to return to Zefroin.... ")
 run("ZefroinShell.py")
 quit()
