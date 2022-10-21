@@ -1,0 +1,18 @@
+import main
+
+while True:
+  print(error109)
+  print(error1)
+  print(error32)
+  print(error18)
+  print(error0)
+  print(warning1)
+  print(errorunk)
+  print(error45)
+  print(error67)
+  print(error95)
+  errordone = input("/Ermn >> ")
+  if errordone == "Yes" or "yes" or "y":
+    break
+run("main.py")
+quit()
