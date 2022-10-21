@@ -21,8 +21,6 @@ while True:
   print(error45)
   print(error67)
   print(error95)
-  errordone = input("/Ermn >> ")
-  if errordone == "Yes" or "yes" or "y":
-    break
+  errordone = input("Error codes show: Click any key to return to Zefroin.... ")
 run("ZefroinShell.py")
 quit()
